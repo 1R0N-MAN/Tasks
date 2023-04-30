@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="completed">Completed</string>
+    <string name="no_tasks_here">Sorry, No Tasks Here!</string>
+    <string name="new_task">New Task</string>
+    <string name="enter_task_name">Enter Task Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="dummy_date">dd/mm/yyyy</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="delete_task">Delete Task?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="task_name_warning">Please enter a valid task name</string>
+</resources>
